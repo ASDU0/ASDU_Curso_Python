@@ -75,4 +75,4 @@ Videojuegos
 
 Programar consiste en diseñar soluciones mediante instrucciones lógicas que una computadora puede ejecutar.
 
-Es una habilidad fundamental en la tecnología moderna y permite desarrollar software para múltiples áreas.
+Es una habilidad fundamental en la tecnología moderna y permite desarrollar software para múltiples áreas. 
