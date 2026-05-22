@@ -160,5 +160,3 @@ es técnicamente un subtipo de `int` en Python.
 | `%` | Módulo | `10 % 3` | `1` |
 | `**` | Potencia | `2 ** 8` | `256` |
 | `+=` `-=` etc. | Asignación compuesta | `x += 1` | `x = x + 1` |
-
-**Siguiente módulo:** con variables, entradas y operaciones aritméticas solo te faltaría aplicar la lógica para poder construir programas más avanzados → Operadores lógicos.
